@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Golang-%23000000.svg?logo=goland&logoColor=white&style=flat-square" alt="Golang" /> <img src="https://img.shields.io/badge/%E6%98%93%E8%AF%AD%E8%A8%80-%23FF4734.svg?logoColor=white&style=flat-square" alt="易语言" />  <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?logo=c&logoColor=white&style=flat-square" alt="C" /> <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white&style=flat-square" alt="PHP" /> <img src="https://img.shields.io/badge/Matlab-%23FF9E2A.svg?logoColor=white&style=flat-square" alt="MATLAB" /> 
 
 <img src="https://img.shields.io/badge/ConterStrike-%23323330.svg?logo=Counter-Strike&logoColor=white&style=flat-square">
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 
 
