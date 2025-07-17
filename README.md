@@ -1,6 +1,6 @@
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=lydhl&theme=vue&show_icons=true&theme=radical" />
 
-### 🤗Hi~,I'm LYDHL
+### 🤗Hi~,I'm HLG
 - 🎈 兴趣使然的技术爱好者
 - ✨ 理想是制作大众喜爱的产品
 - 🎮 一个玩的还不错的竞技游戏玩家
