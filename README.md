@@ -1,4 +1,4 @@
-<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=lydhl&theme=vue&show_icons=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lydhl&show_icons=true&theme=radical" />
 
 ### 🤗Hi~,I'm HLG
 - 🎈 兴趣使然的技术爱好者
